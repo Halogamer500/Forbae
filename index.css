@@ -229,9 +229,9 @@ body {
 }
 
 .valentine {
-    text-align: left;
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color:rgb(20, 20, 20);
     font-size: 70px;
-    margin: 150px;
+    margin: 15px;
 }
