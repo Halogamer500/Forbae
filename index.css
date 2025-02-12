@@ -83,13 +83,14 @@ body {
 }
 .line2 {
     top: 30%;
+    text-align: center;
 }
 .line3 {
     top: 50%;
     text-align: center;
 }
 .line4 {
-    top: 65%;
+    top: 60%;
     text-align: center;
 }
 
@@ -228,10 +229,3 @@ body {
     color: white;
 }
 
-.valentine {
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color:rgb(20, 20, 20);
-    font-size: 20px;
-    margin: 0px;
-}
